@@ -8,9 +8,9 @@ Tsapkova Angelina
 
 ## Исходные данные
 
-1.  ОС Windows 11
+1.  ОС Windows 10
 2.  RStudio Desktop
-3.  Интерпретатор языка R 4.2.2
+3.  Интерпретатор языка R 4.3.2
 4.  Swirl
 
 ## Ход работы
